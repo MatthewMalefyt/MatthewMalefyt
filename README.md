@@ -1,16 +1,16 @@
-## Hi there 👋
+Welcome 👋
+🔭 I am a Data Analyst specializing in Cybersecurity and human-centered AI research. 
+🍳 I'm driven, analytical, and goal-oriented with a keen interest in cooking.
 
-<!--
-**MatthewMalefyt/MatthewMalefyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Experience:
+Research Scientist @ Columbia University, New York
+Information Technology Associate, The Robert Wood Johnson Foundation, New Jersey
+Center for Digital Transformation Solutions Architect, New York
 
-Here are some ideas to get you started:
+📚 Education:
+🎓 M.Sc. in Cybersecurity, Fordham University, New York
+Awards: Google AI Certification, AWS Certification, National Cyber Leage Capture the Flag, 3rd place in BostonHacks Hackathon, Cyber Sentinals Hackathon, STEM Academic Achievement Award
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.A. in Computer Science and Philosophy, Fordham University, New York
+🔎 Find me on:
+👔 LinkedIn
