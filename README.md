@@ -1,8 +1,8 @@
 **Welcome** 👋
 
-	●  🔭 I am a Data Analyst specializing in Cybersecurity and human-centered AI research. 
+●  🔭 I am a Data Analyst specializing in Cybersecurity and human-centered AI research. 
 
-	●  🍳 I'm driven, analytical, and goal-oriented with a keen interest in cooking.		
+●  🍳 I'm driven, analytical, and goal-oriented with a keen interest in cooking.		
 
 
 💼 Experience:
