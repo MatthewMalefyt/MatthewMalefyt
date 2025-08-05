@@ -6,20 +6,20 @@ Welcome 👋
 
 💼 Experience:
 
-●  Research Scientist @ Columbia University, New York
+●   Research Scientist @ Columbia University, New York
 
-●  Information Technology Associate, The Robert Wood Johnson Foundation, New Jersey
+●   Information Technology Associate, The Robert Wood Johnson Foundation, New Jersey
 
-●  Center for Digital Transformation Solutions Architect, New York
+●   Center for Digital Transformation Solutions Architect, New York
 
 📚 Education:
 
-●  🎓 M.Sc. in Cybersecurity, Fordham University, New York
+●   🎓 M.Sc. in Cybersecurity, Fordham University, New York
 
-●  Awards: Google AI Certification, AWS Certification, National Cyber Leage CTF, BostonHacks Hackathon, Cyber Sentinals Hackathon, STEM Academic Achievement Award          
+●   Awards: Google AI Certification, AWS Certification, National Cyber Leage CTF, BostonHacks Hackathon, Cyber Sentinals Hackathon        
 
-●  🎓 B.A. in Computer Science and Philosophy, Fordham University, New York
+●   🎓 B.A. in Computer Science and Philosophy, Fordham University, New York
 
 🔎 Find me on:
 
-●  👔 LinkedIn
+●   👔 LinkedIn
