@@ -1,8 +1,9 @@
-Welcome 👋
+**Welcome** 👋
 
 ●  🔭 I am a Data Analyst specializing in Cybersecurity and human-centered AI research. 
 
 ●  🍳 I'm driven, analytical, and goal-oriented with a keen interest in cooking.
+
 
 💼 Experience:
 
@@ -12,6 +13,7 @@ Welcome 👋
 
 ●   Center for Digital Transformation Solutions Architect, New York
 
+
 📚 Education:
 
 ●   🎓 M.Sc. in Cybersecurity, Fordham University, New York
@@ -19,6 +21,7 @@ Welcome 👋
 ●   Awards: Google AI Certification, AWS Certification, National Cyber Leage CTF, BostonHacks Hackathon, Cyber Sentinals Hackathon        
 
 ●   🎓 B.A. in Computer Science and Philosophy, Fordham University, New York
+
 
 🔎 Find me on:
 
